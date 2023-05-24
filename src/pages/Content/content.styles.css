@@ -1,0 +1,21 @@
+.assistant-btn {
+  cursor: pointer;
+  width: 34px;
+  height: 34px;
+  position: absolute;
+  bottom: 100px;
+  right: 12px;
+}
+.assistant-btn:hover {
+  cursor: pointer;
+  background: #00000010;
+  border-radius: 360px;
+}
+
+.assistant-btn-inner {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: 24px;
+  height: 24px;
+}
