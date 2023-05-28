@@ -4,7 +4,7 @@ let openaiClient;
 
 // Initialize OpenAI client with API key from .env file
 const configuration = new Configuration({
-  apiKey: "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",
+  apiKey: "",
 });
 openaiClient = new OpenAIApi(configuration);
 
